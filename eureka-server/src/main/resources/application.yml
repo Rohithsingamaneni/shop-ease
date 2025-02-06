@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: eureka-server
+
+server:
+  port: 8761
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: false  # The server does not register itself
+    fetch-registry: false        # The server does not fetch the registry
+  server:
+    enable-self-preservation: false  # Useful for dev/test environments
+    eviction-interval-timer-in-ms: 5000
+

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71023dee-57d6-4362-8aec-d952ca0723fd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ptip8XJGZeMMVAK5eCIk5jnb9l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EurekaServerApplication.executor": "Run",
+    "Application.GatewayServiceApplication.executor": "Run",
+    "Application.OrderServiceApplication.executor": "Run",
+    "Application.ProductServiceApplication.executor": "Run",
+    "Application.UserServiceApplication.executor": "Run",
+    "JUnit.CategoryControllerIntegrationTest.addCategory_ShouldAddCategory.executor": "Run",
+    "JUnit.CategoryControllerIntegrationTest.deleteCategory_ShouldDeleteCategory.executor": "Run",
+    "JUnit.CategoryControllerIntegrationTest.getAllCategory_ShouldReturnAllCategories.executor": "Run",
+    "JUnit.CategoryControllerIntegrationTest.updateCategory_ShouldUpdateCategoryDetails.executor": "Run",
+    "JUnit.ProductControllerIntegrationTest.addProduct_ShouldSaveProductAndReturnIt.executor": "Run",
+    "JUnit.ProductControllerIntegrationTest.deleteProduct_ShouldDeleteProduct.executor": "Run",
+    "JUnit.ProductControllerIntegrationTest.executor": "Run",
+    "JUnit.ProductControllerIntegrationTest.getAllProducts_ShouldReturnPaginatedProducts.executor": "Run",
+    "JUnit.ProductControllerIntegrationTest.updateProduct_ShouldUpdateAndReturnUpdatedProduct.executor": "Run",
+    "JUnit.ProductServiceTest.getAllProducts_ShouldReturnPaginatedList.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nikhi/OneDrive/Desktop/shop-ease",
+    "onboarding.tips.debug.path": "C:/Users/nikhi/OneDrive/Desktop/shop-ease/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.shop.ease.product_service.service" />
+      <recent name="com.shop.ease.order_service.repository" />
+      <recent name="com.shop.ease.product_service.dto" />
+      <recent name="com.shop.ease.product_service.model" />
+      <recent name="com.shop.ease.user_service.security" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nikhi\OneDrive\Desktop\shop-ease" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductServiceTest.getAllProducts_ShouldReturnPaginatedList">
+    <configuration name="CategoryControllerIntegrationTest.addCategory_ShouldAddCategory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shop.ease.product_service.ControllerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shop.ease.product_service.ControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.shop.ease.product_service.ControllerTest.CategoryControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="addCategory_ShouldAddCategory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryControllerIntegrationTest.deleteCategory_ShouldDeleteCategory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shop.ease.product_service.ControllerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shop.ease.product_service.ControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.shop.ease.product_service.ControllerTest.CategoryControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="deleteCategory_ShouldDeleteCategory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryControllerIntegrationTest.getAllCategory_ShouldReturnAllCategories" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shop.ease.product_service.ControllerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shop.ease.product_service.ControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.shop.ease.product_service.ControllerTest.CategoryControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="getAllCategory_ShouldReturnAllCategories" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryControllerIntegrationTest.updateCategory_ShouldUpdateCategoryDetails" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shop.ease.product_service.ControllerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shop.ease.product_service.ControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.shop.ease.product_service.ControllerTest.CategoryControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="updateCategory_ShouldUpdateCategoryDetails" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest.getAllProducts_ShouldReturnPaginatedList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shop.ease.product_service.ServiceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shop.ease.product_service.ServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.shop.ease.product_service.ServiceTest.ProductServiceTest" />
+      <option name="METHOD_NAME" value="getAllProducts_ShouldReturnPaginatedList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductServiceTest.getAllProducts_ShouldReturnPaginatedList" />
+        <item itemvalue="JUnit.CategoryControllerIntegrationTest.deleteCategory_ShouldDeleteCategory" />
+        <item itemvalue="JUnit.CategoryControllerIntegrationTest.updateCategory_ShouldUpdateCategoryDetails" />
+        <item itemvalue="JUnit.CategoryControllerIntegrationTest.addCategory_ShouldAddCategory" />
+        <item itemvalue="JUnit.CategoryControllerIntegrationTest.getAllCategory_ShouldReturnAllCategories" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71023dee-57d6-4362-8aec-d952ca0723fd" name="Changes" comment="" />
+      <created>1733591961212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733591961212</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
