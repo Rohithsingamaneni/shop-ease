@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71023dee-57d6-4362-8aec-d952ca0723fd" name="Changes" comment="" />
+    <list default="true" id="71023dee-57d6-4362-8aec-d952ca0723fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -46,9 +52,11 @@
     "JUnit.ProductControllerIntegrationTest.getAllProducts_ShouldReturnPaginatedProducts.executor": "Run",
     "JUnit.ProductControllerIntegrationTest.updateProduct_ShouldUpdateAndReturnUpdatedProduct.executor": "Run",
     "JUnit.ProductServiceTest.getAllProducts_ShouldReturnPaginatedList.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "test-branch",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/nikhi/OneDrive/Desktop/shop-ease",
+    "last_opened_file_path": "/Users/rohithsingamaneni/Desktop/Java/shop-ease",
     "onboarding.tips.debug.path": "C:/Users/nikhi/OneDrive/Desktop/shop-ease/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
